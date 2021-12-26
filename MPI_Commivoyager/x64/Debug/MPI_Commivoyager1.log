@@ -1,0 +1,5 @@
+﻿  MPI_Commivoyager.cpp
+C:\Users\denis\source\repos\MPI_Commivoyager1\MPI_Commivoyager.cpp(12,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\denis\source\repos\MPI_Commivoyager1\MPI_Commivoyager.cpp(38,22): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\denis\source\repos\MPI_Commivoyager1\MPI_Commivoyager.cpp(154,20): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+  MPI_Commivoyager1.vcxproj -> C:\Users\denis\source\repos\MPI_Commivoyager1\x64\Debug\MPI_Commivoyager1.exe

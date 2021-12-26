@@ -1,0 +1,6 @@
+﻿  commivoyager.cpp
+C:\Users\denis\source\repos\commivoyager\commivoyager.cpp(11,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\denis\source\repos\commivoyager\commivoyager.cpp(20,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\denis\source\repos\commivoyager\commivoyager.cpp(21,22): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\denis\source\repos\commivoyager\commivoyager.cpp(106,20): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+  commivoyager.vcxproj -> C:\Users\denis\source\repos\commivoyager\x64\Debug\commivoyager.exe

@@ -1,0 +1,11 @@
+﻿  parallelCommivoyager.cpp
+C:\Users\denis\source\repos\parallelCommivoyager\parallelCommivoyager.cpp(11,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\denis\source\repos\parallelCommivoyager\parallelCommivoyager.cpp(36,22): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\denis\source\repos\parallelCommivoyager\parallelCommivoyager.cpp(119,20): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\denis\source\repos\parallelCommivoyager\parallelCommivoyager.cpp(34,9): warning C4101: min_path_index: неиспользованная локальная переменная
+  Создание кода
+  2 of 14 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  parallelCommivoyager.vcxproj -> C:\Users\denis\source\repos\commivoyager\x64\Release\parallelCommivoyager.exe

@@ -1,0 +1,6 @@
+﻿  posix_Commivoyager.cpp
+C:\Users\denis\source\repos\posix_Commivoyager\posix_Commivoyager.cpp(20,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\denis\source\repos\posix_Commivoyager\posix_Commivoyager.cpp(148,22): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\denis\source\repos\posix_Commivoyager\posix_Commivoyager.cpp(164,20): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\denis\source\repos\posix_Commivoyager\posix_Commivoyager.cpp(144,9): warning C4101: path: неиспользованная локальная переменная
+  posix_Commivoyager.vcxproj -> C:\Users\denis\source\repos\posix_Commivoyager\x64\Debug\posix_Commivoyager.exe

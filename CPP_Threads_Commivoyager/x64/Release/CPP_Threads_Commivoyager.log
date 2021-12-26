@@ -1,0 +1,11 @@
+﻿  CPP_Threads_Commivoyager.cpp
+C:\Users\denis\source\repos\CPP_Threads_Commivoyager\CPP_Threads_Commivoyager.cpp(21,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\denis\source\repos\CPP_Threads_Commivoyager\CPP_Threads_Commivoyager.cpp(150,22): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\denis\source\repos\CPP_Threads_Commivoyager\CPP_Threads_Commivoyager.cpp(173,20): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\denis\source\repos\CPP_Threads_Commivoyager\CPP_Threads_Commivoyager.cpp(145,9): warning C4101: towns: неиспользованная локальная переменная
+  Создание кода
+  1 of 75 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  CPP_Threads_Commivoyager.vcxproj -> C:\Users\denis\source\repos\CPP_Threads_Commivoyager\x64\Release\CPP_Threads_Commivoyager.exe
